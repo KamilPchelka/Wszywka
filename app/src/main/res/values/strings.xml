@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Testowa</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_start">StartActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_all_sounds">AllSoundsActivity</string>
+    <string name="facebook_app_id">380806812287760</string>
+</resources>

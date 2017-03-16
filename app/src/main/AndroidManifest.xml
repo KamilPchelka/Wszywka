@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gmail.siemaeniu500.wszywka">
+
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/icona"
+        android:label="Wszywka Teksty"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="${applicationId}.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths"/>
+        </provider>
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <activity
+            android:name=".StartActivity"
+            android:noHistory="true"
+            android:screenOrientation="portrait">
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainMenuActivity"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".categories.FavouritesActivity"
+            android:noHistory="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".categories.AllSoundsActivity"
+            android:label="@string/title_activity_all_sounds"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".categories.PowiedzonkaSoundsActivity"
+            android:label="@string/title_activity_all_sounds"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".categories.ReakcjeSoundsActivity"
+            android:label="@string/title_activity_all_sounds"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".categories.ToastySoundsActivity"
+            android:label="@string/title_activity_all_sounds"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".categories.ZloteMysliSoundsActivity"
+            android:label="@string/title_activity_all_sounds"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar">
+            >
+        </activity>
+        <activity android:name=".categories.utils.AnimationTest"></activity>
+    </application>
+
+</manifest>

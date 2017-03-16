@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_0def715129659c541b1a9c9488e54e05c6c4b952\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_d4ff9eb9c2f74e9ab47d27ea63a72a9b7a7dafa1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_ad4eadf2b03a1ac5a446313664e941928fdb4009\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-io\1.3.2\b6dde38349ba9bb5e6ea6320531eae969985dae5\commons-io-1.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b6dde38349ba9bb5e6ea6320531eae969985dae5">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-io-1.3.2_817171d575c833b62cd7d3f6d35515b8aec5465d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_844cf2432194fade21af3ce12faa3279b5ce69ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_085eacc6758cb37c44d0658a376c3f77d2e863f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-25.0.0_b36b7c4b376ddc780417cb3e3bf1cfcf7061a62b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_43e6857695a1c975ce6136d72c25d378718011c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2b64f6a762f61a2379d6a79af03e2ee56eefe0b">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-alpha9_eb3d494e627b8a1300e4b7c00b2dbde1c4148b50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_842d5f2600a5049cda064acd549de93a0136aa67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_554550a2ccf0d1f795bb5355aac9dd495829c353\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_2d9d102f596eb9f1b9bf5391cd556f04dde4a7d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ace7948d3ecc9aff40185dc0d9e120efa7c46ae7">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_50df3fffd62a64137779cb1683e925582fb4e666\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_68892066a92f6a0793108057afb984497f35c499\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_1448c37ffc91f70fd25a69b556a59128924b0559\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha9\constraint-layout-solver-1.0.0-alpha9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6a908fd0803cc5f65b007101002aec06dc7544da">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha9_8bdac8bb32813b34dc2f7e6d0636f7d0688091bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="825b267d44afcb37c0616c1e2d7874e39eec5eb2">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_251afeb1a873d93a167028ed11f93321907f44d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_53d057d6d306440c31a0f90885dba97bdb1fb674\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_50110e1044a97295af9cb15a38b4e5803042b5bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.0_de8b0e35b8c02e29931361bc00c57d5b0ec59acc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_5c0d834c1dba1aef69d762c7fe765504a0fb55db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-drawee-1.0.1_7564a725438c267608fc9628664abd111ecaf964\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.19.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c6047a34af07d6ec4e950ba1dc70ce23ac65ecaa">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.19.0_865d230ceffc2f84f7d607002b3f625d4eafcc05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fresco-1.0.1_26f8f79967793c5f7ee877f3347f35d93dae4315\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_d148a906145b53e1809938fb3f840525cf74949e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-1.0.1_bf55ea3438b261bb5b56e7c3f794db1f8c6b1aee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_64197eea7fc21c0c8166f366a337e0d53ac60fd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_3f305a90cb2f4c4f2b6c4aea09faa4179425c33c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_a1d31a2e99bf61ba2272daf457fd0c10a667de55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_612c4688599229fe8822419aece0863f99fa46e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-base-1.0.1_39a6f9e9f4bbd7772f82b52ec0c9550bb1e2464d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\universal-image-loader-1.9.5_604226ae34d5f37a273dbb7b57e306273d9ccdb0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fbcore-1.0.1_f1b9ef366b349f62c3e10862504e501338c8d46b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.0_968c76a3dc09adf0e4e22213ad0b79bc3c1af4a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kamil\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\Kamil\AndroidStudioProjects\Testowa\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_574c820d21d92135a859c6815338f034115797a7\classes.dex" />
+    </item>
+
+</items>

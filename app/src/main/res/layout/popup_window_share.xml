@@ -1,0 +1,84 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rl_custom_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="true"
+    android:padding="2dp"
+    android:focusable="true">
+
+    <LinearLayout
+        android:id="@+id/tv"
+        android:animateLayoutChanges="true"
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ib_close"
+        android:background="@mipmap/share_menu_background"
+        android:layout_centerInParent="true"
+        android:padding="25sp">
+
+        <ImageButton
+            android:background="@mipmap/send_through_messenger"
+            android:layout_weight="1"
+            android:id="@+id/messengerButton"
+            android:layout_gravity="center"
+            android:scaleType="fitXY"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:background="@mipmap/send_through_other_app"
+            android:id="@+id/otherButton"
+            android:layout_marginTop="25dp"
+            android:layout_gravity="center"
+            android:scaleType="fitXY"
+            android:layout_height="50dp" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:layout_height="50dp"
+            android:background="@mipmap/set_as_notification_sound"
+            android:id="@+id/notificationButton"
+            android:layout_marginTop="25dp"
+            android:layout_gravity="center"
+            android:scaleType="fitXY" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:background="@mipmap/set_as_ringtone_sound"
+            android:id="@+id/ringtoneButton"
+            android:layout_marginTop="25dp"
+            android:layout_gravity="center"
+            android:scaleType="fitXY"
+            android:layout_height="50dp" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:layout_height="50dp"
+            android:background="@mipmap/save_as_file"
+            android:id="@+id/savefilebutton"
+            android:layout_marginTop="25dp"
+            android:layout_gravity="center"
+            android:scaleType="fitXY" />
+    </LinearLayout>
+
+    <ImageButton
+
+        android:id="@+id/ib_close"
+        android:animateLayoutChanges="true"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@mipmap/info_window_close_button"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+
+</RelativeLayout>

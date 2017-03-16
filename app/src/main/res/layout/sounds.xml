@@ -1,0 +1,1408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/main_menu"
+    tools:context=".categories.AllSoundsActivity" >
+    <ImageButton
+        android:id="@+id/aaaa_1"
+        android:background="@drawable/aaaa_1"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:id="@+id/aaaa_2"
+        android:background="@drawable/aaaa_2"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/ale_petarda"
+        android:id="@+id/ale_petarda"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/ani_to_piwo"
+        android:id="@+id/ani_to_piwo"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/apropo_defacto"
+        android:id="@+id/apropo_defacto"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/az_mi_slinka_leci"
+        android:id="@+id/az_mi_slinka_leci"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/badziewie_do_badziewia"
+        android:id="@+id/badziewie_do_badziewia"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/bez_zadnych_obawien"
+        android:id="@+id/bez_zadnych_obawien"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/bialy_denaturat"
+        android:id="@+id/bialy_denaturat"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/bimbry_zaczynaja_dzialac"
+        android:id="@+id/bimbry_zaczynaja_dzialac"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/brak_alkoholu"
+        android:id="@+id/brak_alkoholu"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/chcialbym_pozyczyc"
+        android:id="@+id/chcialbym_pozyczyc"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/chgw"
+        android:id="@+id/chgw"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/chlusniem_aby_nie_usniec_1"
+        android:id="@+id/chlusniem_aby_nie_usniec_1"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/ciorna_jak_ziemia"
+        android:id="@+id/ciorna_jak_ziemia"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/co_za_kurwa"
+        android:id="@+id/co_za_kurwa"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/cos_mi_fermentuje"
+        android:id="@+id/cos_mi_fermentuje"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/cytat_wodka_smakuje_wspaniale"
+        android:id="@+id/cytat_wodka_smakuje_wspaniale"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/czuc_jakby_ziolami"
+        android:id="@+id/czuc_jakby_ziolami"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/czuc_spirytusem"
+        android:id="@+id/czuc_spirytusem"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/dla_mnie_to_jest_za_slabe"
+        android:id="@+id/dla_mnie_to_jest_za_slabe"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/do_plukania_szklanek"
+        android:id="@+id/do_plukania_szklanek"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/dziabiemy_na_3_noge"
+        android:id="@+id/dziabiemy_na_3_noge"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/dziadostwo"
+        android:id="@+id/dziadostwo"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/dziekuje_panstwu"
+        android:id="@+id/dziekuje_panstwu"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/dziekuje_za_obejrzenie_programu"
+        android:id="@+id/dziekuje_za_obejrzenie_programu"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/dziewczeta_zdrowie"
+        android:id="@+id/dziewczeta_zdrowie"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/dziewiec_ml_niecaly_litr"
+        android:id="@+id/dziewiec_ml_niecaly_litr"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/elegancka_do_konsumpcji"
+        android:id="@+id/elegancka_do_konsumpcji"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/gicio"
+        android:id="@+id/gicio"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/gorzkie_jest"
+        android:id="@+id/gorzkie_jest"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/guzik_prawda"
+        android:id="@+id/guzik_prawda"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/hej_dziewczynki"
+        android:id="@+id/hej_dziewczynki"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/ja_sie_upijam"
+        android:id="@+id/ja_sie_upijam"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/jakby_woda_z_gnojowki"
+        android:id="@+id/jakby_woda_z_gnojowki"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+
+    <ImageButton
+        android:background="@drawable/jebucko_nachmielony"
+        android:id="@+id/jebucko_nachmielony"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/jest_pierwsza_klasa"
+        android:id="@+id/jest_pierwsza_klasa"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/jest_super"
+        android:id="@+id/jest_super"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/jestem_wieslaw_wszywka"
+        android:id="@+id/jestem_wieslaw_wszywka"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/jeszcze_takiego_zapachu_nie_pilem"
+        android:id="@+id/jeszcze_takiego_zapachu_nie_pilem"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/kawal_chlopa"
+        android:id="@+id/kawal_chlopa"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/kolor_krystaliczny"
+        android:id="@+id/kolor_krystaliczny"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/kolor_niebieski_przypomina_denaturat"
+        android:id="@+id/kolor_niebieski_przypomina_denaturat"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/kolunio_kopsnij_drina"
+        android:id="@+id/kolunio_kopsnij_drina"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/konsumpcja_spirytusu"
+        android:id="@+id/konsumpcja_spirytusu"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/kto_wypuscil_takie_dziadostwo"
+        android:id="@+id/kto_wypuscil_takie_dziadostwo"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/kurr_zapial"
+        android:id="@+id/kurr_zapial"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/kurwa_1"
+        android:id="@+id/kurwa_1"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/kurwa_jego_mac"
+        android:id="@+id/kurwa_jego_mac"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/lecim_na_szczecin"
+        android:id="@+id/lecim_na_szczecin"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/lecz_sie_na_nogi"
+        android:id="@+id/lecz_sie_na_nogi"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/lubie_duzy_volt"
+        android:id="@+id/lubie_duzy_volt"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/lzy_mi_pociekly"
+        android:id="@+id/lzy_mi_pociekly"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/masz_tam_kielicha"
+        android:id="@+id/masz_tam_kielicha"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/mianowicie_czas_na_picie"
+        android:id="@+id/mianowicie_czas_na_picie"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/mianowicie_mozna_wypic"
+        android:id="@+id/mianowicie_mozna_wypic"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/miod_w_gebie"
+        android:id="@+id/miod_w_gebie"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/mocny_jest_jest_super"
+        android:id="@+id/mocny_jest_jest_super"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/mozna_konsumpowac_bez_zastrzezen"
+        android:id="@+id/mozna_konsumpowac_bez_zastrzezen"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/na_krzywy_ryj_pijemy"
+        android:id="@+id/na_krzywy_ryj_pijemy"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/nie_bede_pil"
+        android:id="@+id/nie_bede_pil"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/nie_mam_zadnych_obawien"
+        android:id="@+id/nie_mam_zadnych_obawien"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/nie_masz_jakiej_wodki"
+        android:id="@+id/nie_masz_jakiej_wodki"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/nie_musze_patrzac"
+        android:id="@+id/nie_musze_patrzac"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/nieba_ziemiom_bedzie"
+        android:id="@+id/nieba_ziemiom_bedzie"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/niebo_pod_jezykiem"
+        android:id="@+id/niebo_pod_jezykiem"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/niebo_w_ziemi_1"
+        android:id="@+id/niebo_w_ziemi_1"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+
+    <ImageButton
+        android:background="@drawable/niebowziecie"
+        android:id="@+id/niebowziecie"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/o_gaz_jest"
+        android:id="@+id/o_gaz_jest"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/o_kurcza"
+        android:id="@+id/o_kurcza"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/o_kurwa_jego_mac"
+        android:id="@+id/o_kurwa_jego_mac"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/ogoreczki_rybki"
+        android:id="@+id/ogoreczki_rybki"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/pali_jak_dzika_po_zoledziach"
+        android:id="@+id/pali_jak_dzika_po_zoledziach"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/piekna_sprawa"
+        android:id="@+id/piekna_sprawa"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/pierdynkiem_bo_odwykniem"
+        android:id="@+id/pierdynkiem_bo_odwykniem"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+
+    <ImageButton
+        android:background="@drawable/pilem_nawet_spirytus"
+        android:id="@+id/pilem_nawet_spirytus"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/piwa_mamy_na_samym_nie"
+        android:id="@+id/piwa_mamy_na_samym_nie"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/piwko_zaatakowalo"
+        android:id="@+id/piwko_zaatakowalo"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/piwo_chuja_warte"
+        android:id="@+id/piwo_chuja_warte"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/podpiek_przed_piwem"
+        android:id="@+id/podpiek_przed_piwem"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/polecam_dzieciom"
+        android:id="@+id/polecam_dzieciom"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/pozdrawiam_1"
+        android:id="@+id/pozdrawiam_1"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/przestac_pic"
+        android:id="@+id/przestac_pic"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/siema_1"
+        android:id="@+id/siema_1"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/siema_2"
+        android:id="@+id/siema_2"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/siemanko"
+        android:id="@+id/siemanko"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/siki_swietej_wenioriki"
+        android:id="@+id/siki_swietej_wenioriki"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/slodkie_jak_herbata"
+        android:id="@+id/slodkie_jak_herbata"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/smak_aromatyczny"
+        android:id="@+id/smak_aromatyczny"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/smak_piwa"
+        android:id="@+id/smak_piwa"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/smak_spirytusem"
+        android:id="@+id/smak_spirytusem"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/smak_wodki_cos_dobrego"
+        android:id="@+id/smak_wodki_cos_dobrego"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/smiech2"
+        android:id="@+id/smiech2"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/smiech_1"
+        android:id="@+id/smiech_1"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/super_piatka"
+        android:id="@+id/super_piatka"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/szampany_do_wlosow"
+        android:id="@+id/szampany_do_wlosow"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/szanowni_panstwo"
+        android:id="@+id/szanowni_panstwo"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/szkoda_na_to_pieniedzy"
+        android:id="@+id/szkoda_na_to_pieniedzy"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/ta_wodka_smak_ma_kompotu"
+        android:id="@+id/ta_wodka_smak_ma_kompotu"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/takiego_szalenstwa"
+        android:id="@+id/takiego_szalenstwa"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/ten_to_dopier_pierdolnie"
+        android:id="@+id/ten_to_dopier_pierdolnie"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/to_badziewie"
+        android:id="@+id/to_badziewie"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/to_jest_amarena"
+        android:id="@+id/to_jest_amarena"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/to_jest_dziadostwo"
+        android:id="@+id/to_jest_dziadostwo"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/to_juz_jest_piorun"
+        android:id="@+id/to_juz_jest_piorun"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/to_juz_kierowcy_nie_moge_pic"
+        android:id="@+id/to_juz_kierowcy_nie_moge_pic"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/to_kurestwo_najmocniejsze"
+        android:id="@+id/to_kurestwo_najmocniejsze"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/tym_podobniej"
+        android:id="@+id/tym_podobniej"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/uje_sie_nie_kreskuje"
+        android:id="@+id/uje_sie_nie_kreskuje"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/usta_oplukac"
+        android:id="@+id/usta_oplukac"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/watroba_gnije"
+        android:id="@+id/watroba_gnije"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/witam_koluniow"
+        android:id="@+id/witam_koluniow"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/wodeczka_jest_wspaniala"
+        android:id="@+id/wodeczka_jest_wspaniala"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/za_slabe_okulary"
+        android:id="@+id/za_slabe_okulary"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/zapowiada_sie_obiecujaco"
+        android:id="@+id/zapowiada_sie_obiecujaco"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/zart_1"
+        android:id="@+id/zart_1"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/zart_2"
+        android:id="@+id/zart_2"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/zdrowie_panowie_i_panie"
+        android:id="@+id/zdrowie_panowie_i_panie"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/zdrowie_tego_co_gorzala"
+        android:id="@+id/zdrowie_tego_co_gorzala"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/zdrowko"
+        android:id="@+id/zdrowko"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/zeby_mnie_tak_nie_miotalo"
+        android:id="@+id/zeby_mnie_tak_nie_miotalo"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/zeby_te_piwa_nie_zarazily_sie"
+        android:id="@+id/zeby_te_piwa_nie_zarazily_sie"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/podpiwek_jedrzej"
+        android:id="@+id/podpiwek_jedrzej"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/to_kierowcy_tylko_moga_pic"
+        android:id="@+id/to_kierowcy_tylko_moga_pic"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/smakowe_dla_kobiet"
+        android:id="@+id/smakowe_dla_kobiet"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/zapach_smakuje"
+        android:id="@+id/zapach_smakuje"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:background="@drawable/dziewiecdziesiat_volt_fraszka"
+        android:id="@+id/dziewiecdziesiat_volt_fraszka"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:scaleType="centerInside"
+        android:cropToPadding="false"
+        android:layout_weight="0.44"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+</LinearLayout>

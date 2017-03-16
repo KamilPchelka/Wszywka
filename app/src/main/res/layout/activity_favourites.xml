@@ -1,0 +1,152 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/main_menu"
+    android:id="@+id/background"
+    android:animateLayoutChanges="true"
+    tools:context=".categories.FavouritesActivity" >
+
+    <ListView
+        android:id="@+id/listView"
+        android:animateLayoutChanges="true"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:cacheColorHint="#00000000"
+        android:divider="@null"
+        android:dividerHeight="0dp"
+        android:layout_above="@+id/main_bottom"
+        android:layout_below="@+id/searchLayout" />
+
+
+    <!-- This is the 'faux' ToolBar I've been telling you about. This is the part that will be overlaid by the content view below. -->
+
+    <FrameLayout
+        android:id="@+id/v_toolbar_extension"
+        android:layout_width="match_parent"
+        android:layout_height="78dp"
+        android:elevation="0dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:minHeight="0dp"
+            android:background="@mipmap/appbar_background"
+            android:gravity="right">
+
+
+            <ImageButton
+                android:src="@drawable/liked"
+                android:layout_width="43dp"
+                android:layout_height="43dp"
+                android:layout_gravity="right"
+                android:layout_marginRight="8dp"
+                android:background="?selectableItemBackground"
+                android:id="@+id/favouriteButton"
+                android:scaleType="centerInside"
+                android:elevation="0dp"
+                android:visibility="visible"
+                android:layout_marginEnd="2dp" />
+
+            <ImageButton
+                android:src="@mipmap/main_menu_icon_image"
+                android:layout_width="43dp"
+                android:layout_height="43dp"
+                android:layout_gravity="right"
+                android:layout_marginRight="8dp"
+                android:background="?selectableItemBackground"
+                android:id="@+id/mainMenuButton"
+                android:scaleType="centerInside"
+                android:elevation="24dp"
+                android:visibility="visible"
+                android:layout_marginLeft="8dp" />
+
+            <ImageView
+                android:layout_width="151dp"
+                android:scaleType="centerCrop"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/wszywka_napis"
+                android:background="?selectableItemBackground"
+                android:id="@+id/imageView4"
+                android:layout_marginLeft="110dp" />
+
+
+        </android.support.v7.widget.Toolbar>
+
+        <ImageView
+            android:layout_width="107dp"
+            android:scaleType="fitXY"
+            android:layout_height="match_parent"
+            android:src="@mipmap/wiesiek_mordka"
+            android:background="?selectableItemBackground"
+            android:id="@+id/imageView3"
+            android:elevation="0dp"
+            android:layout_alignParentLeft="true"
+            android:adjustViewBounds="false"
+            android:layout_gravity="bottom" />
+
+
+    </FrameLayout>
+    <FrameLayout
+        android:id="@+id/main_bottom"
+        android:background="@mipmap/main_background_bottom"
+        android:layout_width="match_parent"
+        android:elevation="0dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_height="10dp">
+
+
+    </FrameLayout>
+
+    <RelativeLayout
+        android:id="@+id/bac_dim_layout"
+        android:animateLayoutChanges="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#c043b3c2"
+        android:visibility="gone" >
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/searchLayout"
+        android:background="@mipmap/search_layout_bg"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/v_toolbar_extension"
+        android:layout_toRightOf="@+id/bac_dim_layout"
+        android:layout_toEndOf="@+id/bac_dim_layout"
+        android:layout_height="51dp">
+
+
+        <EditText android:id="@+id/inputSearch"
+            android:background="@mipmap/edit_text_bg"
+            android:hint="Szukaj tekst.."
+            android:inputType="textVisiblePassword"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:scaleType="centerCrop"
+            android:layout_width="250dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp" />
+
+        <ImageView
+            android:layout_width="43dp"
+            android:layout_marginRight="8dp"
+            android:layout_height="43dp"
+            android:background="@mipmap/search_icon"
+            android:id="@+id/imageView6"
+            android:scaleType="fitCenter"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="4dp" />
+
+    </RelativeLayout>
+</RelativeLayout>
+
+
+
