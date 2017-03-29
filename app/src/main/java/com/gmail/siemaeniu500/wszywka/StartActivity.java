@@ -5,6 +5,8 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.graphics.Bitmap;
+import android.media.MediaPlayer;
+import android.media.SoundPool;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.view.View;
@@ -20,6 +22,8 @@ import com.facebook.FacebookSdk;
 import java.lang.reflect.Field;
 import java.util.HashMap;
 import java.util.concurrent.ExecutionException;
+
+import static com.gmail.siemaeniu500.wszywka.categories.utils.SoundsAdapter.mp;
 
 public class StartActivity extends Activity {
     public static boolean isPlaying;
@@ -97,6 +101,8 @@ public class StartActivity extends Activity {
             public void onClick(View v) {
                 Intent intent = new Intent(StartActivity.this, MainMenuActivity.class);
                 startActivity(intent);
+                mp = MediaPlayer.create(context, R.raw.fanfara);
+                mp.start();
 
             }
         });
